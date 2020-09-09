@@ -1,0 +1,9 @@
+# robots.txt file for http://www.zehn245.net/
+#
+# mail: webmaster@zehn245.net
+
+# Robots und Spider aller Suchmaschinen zulassen
+User-agent: *
+Disallow: /css
+Disallow: /js
+Disallow: /images
